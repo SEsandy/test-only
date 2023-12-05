@@ -1,0 +1,4 @@
+  "AadClientId": "f1f71fe5-8e80-4b82-a87f-378734d55b4b",
+  "AadSecret": "zRc8Q~m-tHTBLTCMk8GXYdsrLcR-VGs3fsPu4aMM",
+  "AadTenantDomain": "ssandy.onmicrosoft.com",
+  "AadTenantId": "f1f71fe5-8e80-4b82-a87f-378734d55b4b",
